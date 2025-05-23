@@ -1,4 +1,4 @@
-.ve-header 'We Made A Book' subtitle='a workshop from Copim's Experimental Publishing Group' background=#891612
+.ve-header 'We Made A Book' subtitle='a workshop from Copim's Experimental Publishing Group' 
 
 .ve-footer
     - Published by [![Mattering Press](https://www.matteringpress.org/wp-content/themes/matteringpress/img/mattering-press.png)](https://www.matteringpress.org/)
