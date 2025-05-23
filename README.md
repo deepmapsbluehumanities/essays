@@ -8,6 +8,6 @@
 
 # table of contents
 
-- [Julien](./essays/julientest.md)
-- [Simon](./essays/simon_file.md)
-- [Evelyn](./essays/Evelyn_test)
+- [Julien](./julientest.md)
+- [Simon](./simon_file.md)
+- [Evelyn](./Evelyn_test)
